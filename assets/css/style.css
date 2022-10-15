@@ -135,7 +135,7 @@ body{
     margin-left: 800px;
     margin-top: -580px;
     border-radius: 20px;
-    opacity: 0.6;
+    opacity: 0.2;
    
     
 }
@@ -293,6 +293,7 @@ body{
     place-items: center;
   }
   
+
   [role="progressbar1"]::before {
     content: "";
     position: absolute;
@@ -314,6 +315,7 @@ body{
     font-size: calc(var(--size) / 5);
     color: var(--primary);
 }
+
 
 .alrededor{
     width: 550px;
@@ -340,9 +342,6 @@ body{
     width: 1900px;
     height: 25px;
 }
-
-
-
 
 
 .asheC{
@@ -420,7 +419,7 @@ body{
     margin-left: 800px;
     margin-top: -580px;
     border-radius: 20px;
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 .viegoc{
@@ -491,7 +490,7 @@ body{
     margin-left: 800px;
     margin-top: -580px;
     border-radius: 20px;
-    opacity: 0.3;
+    opacity: 0.2;
 }
 .ekkoc{
     width: 790px;
